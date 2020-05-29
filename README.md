@@ -2,3 +2,6 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/a6255cc3-4674-42ef-aa4e-e3aabdf9d1cf/deploy-status)](https://app.netlify.com/sites/iiit/deploys)
 
 The template for [IIIT Ranchi](https://iiitranchi.netlify.app/) pages.
+
+
+https://ranchi.iiitiansnetwork.com/
