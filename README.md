@@ -4,4 +4,4 @@
 The template for [IIIT Ranchi](https://iiitranchi.netlify.app/) pages.
 
 
-https://ranchi.iiitiansnetwork.com/
+Official [website](https://ranchi.iiitiansnetwork.com/)
