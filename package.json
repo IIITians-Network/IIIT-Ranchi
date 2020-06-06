@@ -1,0 +1,24 @@
+{
+  "name": "ranchi",
+  "version": "1.0.0",
+  "description": "[![Netlify Status](https://api.netlify.com/api/v1/badges/1b61bde8-e41e-44a2-88d6-f0897f327a10/deploy-status)](https://app.netlify.com/sites/iiitranchi/deploys) [![Netlify Status](https://api.netlify.com/api/v1/badges/a6255cc3-4674-42ef-aa4e-e3aabdf9d1cf/deploy-status)](https://app.netlify.com/sites/iiit/deploys)",
+  "main": "index.js",
+  "dependencies": {
+    "prime-num": "^0.0.1",
+    "primeupto": "^1.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamaniiitian/ranchi.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iamaniiitian/ranchi/issues"
+  },
+  "homepage": "https://github.com/iamaniiitian/ranchi#readme"
+}
